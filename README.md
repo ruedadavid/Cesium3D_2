@@ -4,4 +4,4 @@ Se han realizado pruebas de globos virtuales para presentar cilindros en posicio
 
 # Herramientas utilizadas
 
-Se ha trabajado con Netbeans 8.2 montado sobre Linux para realizar establecer conexin a repositorio de GitHub.
+Se ha trabajado con Netbeans 8.2 montado sobre Linux para realizar conexión a repositorio de GitHub.
